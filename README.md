@@ -51,6 +51,14 @@ Já ouvi essa frase de diversos COs. Eu posso talvez não querer atacar de fato 
 
 Pequenos e médios negócios são os que mais sofrem com hackers - fonte: Cisco - SMB Cybersecurity Report
 
+Mais de 99% das pequenas e médias empresas não possuem alguém dedicado à cibersegurança na organização.
+
+58% das grandes organizações têm uma rotina de correção diária ou semanal.
+
+90% das grandes organizações têm métricas claras para avaliar a eficácia de sua segurança.
+
+76% das grandes organizações têm funcionários dedicados à caça a ameaças ou terceirizam, contratam um pentest.
+
 
 
 
