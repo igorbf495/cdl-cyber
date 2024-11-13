@@ -112,3 +112,26 @@ O pentester sai da casa e cria um relatório detalhado para o proprietário, mos
 
 Exemplo: Ele apresenta um relatório para a empresa com todas as vulnerabilidades encontradas e recomendações para fechar essas “portas e janelas”.
 
+
+40% dos casos de violação de dados envolvem alguma etapa baseada na Engenharia Social. - fonte: Verizon Data Breach Investigations Report 
+
+O fator humano também é extremamente importante para garantir a segurança da informação na organização.
+Colaboradores que não entendem seu papel na segurança ou não tem conhecimento sobre o assunto podem ocasionar graves incidentes.
+
+Beleza Igor, mas o que é Engenharia Social?
+
+A engenharia social é uma técnica usada por cibercriminosos para enganar e manipular pessoas, com o objetivo de obter informações confidenciais ou realizar ações que beneficiem o atacante. Em vez de explorar falhas tecnológicas, o hacker explora a confiança e o comportamento humano, que muitas vezes são o elo mais fraco da segurança.
+
+Exemplo:
+Imagine que você recebe uma ligação de alguém dizendo ser do banco. A pessoa te pede informações pessoais, como sua senha, para "confirmar sua identidade". Você, confiando, fornece a informação — e pronto, você acabou de ser vítima de engenharia social.
+
+A engenharia social é como um golpe de confiança: o criminoso se passa por alguém confiável para conseguir o que deseja.
+
+Outro exemplo:
+Você recebe um e-mail que parece ser do seu banco ou de uma loja conhecida, pedindo para clicar em um link e atualizar seus dados.
+O site é falso, e quando você preenche suas informações, o hacker consegue acesso às suas senhas.
+
+
+
+
+
