@@ -54,6 +54,8 @@ O que é Ransmware?
 
 *vou falar como funciona 
 
+Impacto Econômico: As consequências financeiras de um ataque cibernético podem ser devastadoras para uma PME. Além dos custos diretos associados à recuperação de dados e sistemas, há perdas indiretas relacionadas à reputação e à confiança dos clientes. O relatório enfatiza que a falta de investimento em cibersegurança pode resultar em prejuízos significativos
+
 
 Pequenos e médios negócios são os que mais sofrem com hackers - fonte: Cisco - SMB Cybersecurity Report
 
