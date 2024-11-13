@@ -81,6 +81,34 @@ Como preparar sua empresa?
 
 3 - pentest - é importante investir em um bom pentest para encontrar vulnerabilidades nos ativos de sua empresa.
 
+O que é um pentest?
 
+Pentest é um teste de invasão controlado, feito para encontrar falhas de segurança antes que os hackers as descubram. Imagine que sua empresa é como uma casa. O pentest é como contratar um “ladrão do bem” para tentar entrar e mostrar onde estão as portas e janelas que podem ser facilmente abertas.
 
+Eu divido o pentest em 5 etapas:
+
+Etapa 1: Reconhecimento (Fase de Espionagem)
+O pentester começa coletando informações sobre o alvo, assim como um ladrão estudaria uma casa para descobrir quantas pessoas moram lá e onde estão as entradas.
+
+Exemplo: O pentester procura na internet informações sobre os sistemas e redes da empresa, assim como um criminoso pode olhar pela janela para ver o que está dentro da casa.
+
+Etapa 2: Escaneamento (Analisando as Entradas)
+Nesta etapa, o pentester verifica quais portas estão abertas ou acessíveis, como se estivesse testando maçanetas para ver se alguma está destrancada.
+
+Exemplo: O pentester usa ferramentas para verificar quais sistemas e serviços estão rodando na rede, assim como uma pessoa pode verificar se a porta da garagem está aberta.
+
+Etapa 3: Exploração (Tentativa de Invasão)
+Agora o pentester tenta entrar, usando as falhas encontradas, como se estivesse tentando abrir uma porta com um arame ou chave de fenda.
+
+Exemplo: O pentester pode explorar uma senha fraca ou um software desatualizado, assim como um ladrão aproveita uma fechadura quebrada.
+
+Etapa 4: Pós-Exploração (Verificação dos Impactos)
+Uma vez que o pentester conseguiu entrar, ele avalia o que pode ser feito com esse acesso, como se estivesse andando pela casa e vendo o que poderia ser roubado.
+
+Exemplo: O pentester pode acessar dados confidenciais ou testar até onde consegue chegar dentro da rede da empresa.
+
+Etapa 5: Relatório (Mostrando o que foi Encontrado)
+O pentester sai da casa e cria um relatório detalhado para o proprietário, mostrando quais janelas estavam abertas e como ele conseguiu entrar.
+
+Exemplo: Ele apresenta um relatório para a empresa com todas as vulnerabilidades encontradas e recomendações para fechar essas “portas e janelas”.
 
