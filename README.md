@@ -28,7 +28,7 @@ As pequenas e médias empresas (PMEs) desempenham um papel crucial na economia b
 
 A pequenas e médias empresas seguram toda a economia brasileira. As pequenas empresas não oferecem apenas mais empregos mas também carreiras e oportunidades. Pequenas empresas também são mais bem sucedidads e devolvem dinheiro à comunidade local.
 
-Certo, e onde que entra a cybersegurança nisso? E os atacantes?
+Certo, e onde que entra a cibersegurança nisso? E os atacantes?
 
 Eles sabem disso tudo!
 
