@@ -25,3 +25,16 @@ As pequenas e médias empresas (PMEs) desempenham um papel crucial na economia b
 A pequenas e médias empresas seguram toda a economia brasileira. As pequenas empresas não oferecem apenas mais empregos mas também carreiras e oportunidades. Pequenas empresas também são mais bem sucedidads e devolvem dinheiro à comunidade local.
 
 Certo, e onde que entra a cybersegurança nisso? E os atacantes?
+
+Eles sabem disso tudo!
+
+![image](https://github.com/user-attachments/assets/109b941c-c152-4064-81fb-7af2b176920f)
+
+Eu vou atacar banco pra quê? Pra que que vou comprar path em bitcoin para atacar banco? Eu vou tentar roubar uma credencial de uma empresa por exemplo, uma empresa empresa Y  de limpeza, que presta serviço para petrobras.
+
+
+
+
+
+
+
