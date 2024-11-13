@@ -35,7 +35,14 @@ Eu vou atacar banco pra quê? Pra que que vou comprar path em bitcoin para ataca
 As empresas de médio porte têm 490% mais chances de sofrer uma violação em 2025 do que em 2024.
 fonte: AVANAN
 
+Por que pequenas e médias empresas são mais atacadas?
 
+. Maior probabilidade de o endpoint e a segurança do perímetro serem fracos.
+. Uso de defesas menos sofisticadas comparado à grandes empresas.
+. Não existência de uma política de segurança da informação dedicada.
+. Muitas até tem um firewall, mas têm quem testar esse firewal?
 
+"ah, mas ninguém vai querer atacar a gente"
 
+Já ouvi essa frase de diversos COs. Eu posso talvez não querer atacar de fato aquela empresa, mas essa empresa está inserida em um ecosistema maior, que é o verdadeiro alvo.
 
