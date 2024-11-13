@@ -147,5 +147,9 @@ Então, a gentevem em outra lâmina:
 ![image](https://github.com/user-attachments/assets/5552cedb-6d4d-47a7-ae77-bb4820d4f0c8)
 
 
+*mostrar casos reais de ataques
 
+
+
+Saia daqui hoje e faça estas três coisas para proteger sua empresa: 1) Revise suas senhas, 2) Atualize seu firewall, 3) Agende um pentest. Não espere ser atacado para agir.
 
