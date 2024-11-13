@@ -143,4 +143,9 @@ Autoridade: "Sou o gerente de TI, preciso de suas credenciais para resolver um p
 
 Confiança: "Sou seu amigo, esqueci minha senha. Você pode me ajudar?"
 
+Então, a gentevem em outra lâmina:
+![image](https://github.com/user-attachments/assets/5552cedb-6d4d-47a7-ae77-bb4820d4f0c8)
+
+
+
 
