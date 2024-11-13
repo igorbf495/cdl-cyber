@@ -131,7 +131,13 @@ Outro exemplo:
 Você recebe um e-mail que parece ser do seu banco ou de uma loja conhecida, pedindo para clicar em um link e atualizar seus dados.
 O site é falso, e quando você preenche suas informações, o hacker consegue acesso às suas senhas.
 
+Por Que Funciona?
 
+A engenharia social funciona porque explora emoções humanas, como:
 
+Medo: "Sua conta será bloqueada se você não agir agora!"
+Curiosidade: "Você ganhou um prêmio! Clique aqui para receber."
+Autoridade: "Sou o gerente de TI, preciso de suas credenciais para resolver um problema."
+Confiança: "Sou seu amigo, esqueci minha senha. Você pode me ajudar?"
 
 
