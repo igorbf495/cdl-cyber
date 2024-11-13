@@ -71,7 +71,11 @@ Não é uma questão de se, mas quando uma organização será atingida por um c
 
 ![image](https://github.com/user-attachments/assets/7c7350dd-2b64-4598-92fe-01a440aad709)
 
+Como preparar sua empresa?
 
+1 - políticas - as melhores práticas sempre precisam ser apoiadas pelas políticas certas.
+2 - boas práticas - Atualizações, upgrades e patches de software, sistemas e frameworks e bibliotecas; Uso de firewall e sistemas de prevenção de intrusão (IPS/IDS); Treinamento e conscientização.
+3 - pentest - é importante investir em um bom pentest para encontrar vulnerabilidades nos ativos de sua empresa.
 
 
 
