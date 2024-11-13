@@ -2,6 +2,8 @@
 
 CIBERSEGURANÇA PARA PEQUENAS E MÉDIAS EMPRESAS
 
+apresentação: Bom dia, me chamo Igor
+
 
 Atualmente, nós enquanto seres homanos somos seres híbridos que transitam entre o físico e o digital. E a nossa percepção de mundo precisa levar em consideração esta transitoriedade e este aspecto duplo de mundo
 Parece uma coisa muito filosófica, e é.
@@ -45,4 +47,13 @@ Por que pequenas e médias empresas são mais atacadas?
 "ah, mas ninguém vai querer atacar a gente"
 
 Já ouvi essa frase de diversos COs. Eu posso talvez não querer atacar de fato aquela empresa, mas essa empresa está inserida em um ecosistema maior, que é o verdadeiro alvo.
+
+
+Pequenos e médios negócios são os que mais sofrem com hackers - fonte: Cisco - SMB Cybersecurity Report
+
+
+
+
+
+
 
