@@ -48,7 +48,11 @@ Por que pequenas e médias empresas são mais atacadas?
 
 "ah, mas ninguém vai querer atacar a gente"
 
-Já ouvi essa frase de diversos COs. Eu posso talvez não querer atacar de fato aquela empresa, mas essa empresa está inserida em um ecosistema maior, que é o verdadeiro alvo.
+Já ouvi essa frase de diversos COs. Eu posso talvez não querer atacar de fato aquela empresa, mas essa empresa está inserida em um ecosistema maior, que é o verdadeiro alvo. COmo por exemplo a TOTVS que foi vítima de um ransomware recetemente.
+
+O que é Ransmware?
+
+*vou falar como funciona 
 
 
 Pequenos e médios negócios são os que mais sofrem com hackers - fonte: Cisco - SMB Cybersecurity Report
