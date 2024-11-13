@@ -32,7 +32,8 @@ Eles sabem disso tudo!
 
 Eu vou atacar banco pra quê? Pra que que vou comprar path em bitcoin para atacar banco? Eu vou tentar roubar uma credencial de uma empresa por exemplo, uma empresa empresa Y  de limpeza, que presta serviço para petrobras.
 
-
+As empresas de médio porte têm 490% mais chances de sofrer uma violação em 2025 do que em 2024.
+fonte: AVANAN
 
 
 
