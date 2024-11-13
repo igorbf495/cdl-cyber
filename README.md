@@ -21,3 +21,7 @@ Vamos lá em, dados reais.
 
 
 As pequenas e médias empresas (PMEs) desempenham um papel crucial na economia brasileira, representando 99% dos estabelecimentos empresariais e respondendo por 52% dos empregos com carteira assinada no setor privado, totalizando aproximadamente 16,1 milhões de postos de trabalho
+
+A pequenas e médias empresas seguram toda a economia brasileira. As pequenas empresas não oferecem apenas mais empregos mas também carreiras e oportunidades. Pequenas empresas também são mais bem sucedidads e devolvem dinheiro à comunidade local.
+
+Certo, e onde que entra a cybersegurança nisso? E os atacantes?
