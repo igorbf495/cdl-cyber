@@ -7,7 +7,7 @@ apresentação: Bom dia, me chamo Igor, sou Hacker Ético e atuo encontrando e c
 
 intro
 
-Atualmente, nós enquanto seres homanos somos seres híbridos que transitam entre o físico e o digital. E a nossa percepção de mundo precisa levar em consideração esta transitoriedade e este aspecto duplo de mundo
+Atualmente, nós enquanto seres humanos somos seres híbridos que transitam entre o físico e o digital. E a nossa percepção de mundo precisa levar em consideração esta transitoriedade e este aspecto duplo de mundo
 Parece uma coisa muito filosófica, e é.
 
 Todos nós temos um arquétipo físico e digital.
