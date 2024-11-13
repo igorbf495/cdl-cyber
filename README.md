@@ -136,8 +136,11 @@ Por Que Funciona?
 A engenharia social funciona porque explora emoções humanas, como:
 
 Medo: "Sua conta será bloqueada se você não agir agora!"
+
 Curiosidade: "Você ganhou um prêmio! Clique aqui para receber."
+
 Autoridade: "Sou o gerente de TI, preciso de suas credenciais para resolver um problema."
+
 Confiança: "Sou seu amigo, esqueci minha senha. Você pode me ajudar?"
 
 
