@@ -59,6 +59,10 @@ Mais de 99% das pequenas e médias empresas não possuem alguém dedicado à cib
 
 76% das grandes organizações têm funcionários dedicados à caça a ameaças ou terceirizam, contratam um pentest.
 
+Quais são as ameaças mais comuns enfrentadas pelo meu negócio?
+
+![image](https://github.com/user-attachments/assets/c2191fe4-8093-4672-850f-1b3448ac2436)
+
 
 
 
