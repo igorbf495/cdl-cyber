@@ -63,8 +63,9 @@ Quais são as ameaças mais comuns enfrentadas pelo meu negócio?
 
 ![image](https://github.com/user-attachments/assets/c2191fe4-8093-4672-850f-1b3448ac2436)
 
+5 principais razões pelas quais a segurança cibenética é importante:
 
-
+![image](https://github.com/user-attachments/assets/78c2d9a5-3b66-4e71-aa47-111d9f98a773)
 
 
 
