@@ -67,6 +67,11 @@ Quais são as ameaças mais comuns enfrentadas pelo meu negócio?
 
 ![image](https://github.com/user-attachments/assets/78c2d9a5-3b66-4e71-aa47-111d9f98a773)
 
+Não é uma questão de se, mas quando uma organização será atingida por um cibertaque. O que te dá duas opções:
+
+![image](https://github.com/user-attachments/assets/7c7350dd-2b64-4598-92fe-01a440aad709)
+
+
 
 
 
